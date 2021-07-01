@@ -1,11 +1,18 @@
-title: John Doe # your name (or website title) here
+title: Divya Upadhyay # your name (or website title) here
 logo: "/images/logo.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
+  I am passionate about technology and willing to contribute in building a configurable, robust and scalable automation suite with "5.5" years of experience in Automation Testing.
   <br><br>
-  Second description 
+  Experienced in Automation of API Testing using TypeScript,Javascript and Request using JAVA by approaching TDD and BDD frameworks. 
   <br><br>
-  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
+  Experienced in Automation of Mobile App using Flutter and Gherkin Framework and Web App using Selenium with Core Java by approaching BDD and TDD frameworks.  
+  <br><br>
+  Experienced in CICD by using Jenkins
+  <br><br>
+  Experienced on on SQL queries to perform Backend data validations.
+  <br><br>
+  Experienced in cloud data migration and functional testing of migrated data from one cloud to another using AWS,Google cloud.
+  <a href="www.linkedin.com/in/divyau9693">View My LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
